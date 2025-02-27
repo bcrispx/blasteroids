@@ -1,11 +1,11 @@
-# Blasteroids
+# Blasteroids 🚀
 
 A Python implementation of the classic Asteroids arcade game using Pygame.
 
 ## Description
 
 Blasteroids is a space-themed shooter game where you control a spaceship and destroy asteroids while avoiding collisions. The game features:
-- Smooth spaceship controls
+- Smooth spaceship controls with realistic physics
 - Asteroid splitting mechanics
 - Score tracking
 - Sound effects
@@ -20,7 +20,7 @@ Blasteroids is a space-themed shooter game where you control a spaceship and des
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/blasteroids.git
+git clone https://github.com/bcrispx/blasteroids.git
 cd blasteroids
 ```
 
@@ -46,3 +46,10 @@ python main.py
 - Arrow keys: Rotate and thrust the ship
 - Space: Fire
 - ESC: Pause/Menu
+
+## Current Status
+
+The game is under active development. Current features:
+- Basic spaceship movement with physics
+- Screen wrapping
+- Vector graphics rendering
